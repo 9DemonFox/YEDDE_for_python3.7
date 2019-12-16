@@ -84,6 +84,9 @@ If you use YEDDA for research, please cite our [ACL paper](https://arxiv.org/pdf
 
 Updating...
 ====
+* 2019年12月16日 修改了YEDDE.py,能够在python3.7下运行：python ./YEDDE.py; 打开文件为.ann,则会保留历史记录
+====
+*以下为原作者更新日志
 * 2019-Jul-31, Convert the config file into JSON format.
 * 2018-Oct-20, YEDDA has a slight update in which shortcut maps can be edited, stored and switched seamlessly.
 * 2018-May-07, Repository is renamed as YEDDA now!
